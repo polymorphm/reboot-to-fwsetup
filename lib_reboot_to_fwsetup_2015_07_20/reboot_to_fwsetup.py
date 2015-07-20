@@ -36,7 +36,6 @@ EFI_STRUCT_FORMAT = '=IQ'
 EFI_OS_INDICATIONS_VAR_PATH = '/sys/firmware/efi/efivars/OsIndications-8be4df61-93ca-11d2-aa0d-00e098032b8c'
 EFI_OS_INDICATIONS_SUPPORTED_VAR_PATH = '/sys/firmware/efi/efivars/OsIndicationsSupported-8be4df61-93ca-11d2-aa0d-00e098032b8c'
 EFI_OS_INDICATIONS_BOOT_TO_FW_UI = 0x0000000000000001
-REAL_REBOOT_CMD = 'reboot'
 
 class NotSupportedError(Exception):
     pass

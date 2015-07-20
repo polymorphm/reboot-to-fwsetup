@@ -7,4 +7,4 @@ reboot-to-fwsetup
 Status
 ------
 
-Developer version (git master branch).
+Release: reboot-to-fwsetup-0.1.1 .

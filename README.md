@@ -7,4 +7,4 @@ reboot-to-fwsetup
 Status
 ------
 
-Release: reboot-to-fwsetup-0.1.1 .
+Release: reboot-to-fwsetup-0.1.2 .
